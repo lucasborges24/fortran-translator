@@ -1,0 +1,8 @@
+ # Format
+ # column 1: position (unitless for H.O, M.P., units of Bohr radius otherwise
+ # column 2: R (for hydrogen), in other cases the wave function normalized
+ # column 3: r * R (for hydrogen), does NOT occur otherwise
+ # Note:  For hydrogen we show the radial wavefunction, all other cases show a distribution
+ accross a single axis.
+ # psips =                     3   seed =                    -3   dt =    3.0000000000000000        time =                     3   left =    0.0000000000000000     
+ # right =    3.0000000000000000        boxes =                     3
